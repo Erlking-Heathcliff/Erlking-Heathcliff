@@ -5,5 +5,4 @@
 <br><br> <img width="750" height="450" alt="New Project (7) (1)" src="https://github.com/user-attachments/assets/71bad7d4-2f90-474a-858f-ed316f19d6d2" /> <br>
 <img width="750" height="41" alt="New Project (9)" src="https://github.com/user-attachments/assets/a81c5bb7-3fe0-4208-a168-b86ced29f1ca" /> <br>
 𝘱𝘴: 𝘵𝘳𝘺 𝘵𝘰 𝘤𝘰𝘶𝘯𝘵 & 𝘭𝘪𝘴𝘵 𝘦𝘷𝘦𝘳𝘺 𝘴𝘪𝘯𝘨𝘭𝘦 𝘩𝘦𝘢𝘵𝘩𝘤𝘭𝘪𝘧𝘧 𝘰𝘯 𝘵𝘩𝘦 𝘨𝘳𝘢𝘱𝘩𝘪𝘤. 𝘴𝘦𝘯𝘥 𝘮𝘦 𝘺𝘰 𝘢𝘯𝘴𝘸𝘦𝘳 𝘪𝘯 𝘮𝘺 𝘢𝘵𝘢.. 𝘦𝘺𝘦𝘴 𝘦𝘺𝘦𝘴 <br>
-  ![](https://komarev.com/ghpvc/?username=wcorporation&style=plastic&color=4e3076&label=observers)
 </p>
